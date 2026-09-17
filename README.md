@@ -6,4 +6,4 @@ Three default environments are currently available on IGE jupyterhub :
  - pangeo-pytorch based on [the docker image provided by PANGEO](https://github.com/ige-PING/pangeo-docker-images/tree/master/pytorch-notebook)
  - pangeo-tfjax (tensorflow + jax) based on [the docker image provided by PANGEO](https://github.com/ige-PING/pangeo-docker-images/tree/master/ml-notebook)
 
-All the 
+All the packages installed are listed
